@@ -1,2 +1,75 @@
+$navbar-default-bg: #34373a;
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+#logo {
+  float: left;
+  font-size: 1.7em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  font-weight: bold;
+
+}
+
+.centre{
+  text-align: center;
+}
+.jumbotron{
+  background-image: asset-url('bg2.png');
+  background-size: cover;
+  height: 550px;
+}
+
+.jumbotron h1{
+  margin-bottom:30px;
+  letter-spacing: -1px;
+  font-weight: bold;
+  color: #203c68;
+}
+.article-title{
+  font-weight:bold;
+  font-size: 1.5em;
+}
+.article-body{
+  border-top: 1px solid #eaeaea;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.description{
+  margin-top: 0;
+}
+
+.articles-actions{
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.footer{
+  margin-top: 30px;
+  padding-top: 5px;
+  border-top: 2px solid #34373a;
+  color: #777;
+
+
+}
+
+.footer a:hover{
+  color: #222;
+}
+
+.footer small{
+  float: left;
+
+ }
+
+.footer ul{
+  float: right;
+  list-style: none;
+}
+
+.footer ul li{
+  float: left;
+  margin-left: 15px;
+}
