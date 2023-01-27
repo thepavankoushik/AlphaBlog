@@ -2,6 +2,8 @@
 
 [thepavankoushik-alphablog.herokuapp.com](thepavankoushik-alphablog.herokuapp.com)
 
+**ALPHABLOG** is a platform where individuals or groups can share their thoughts, ideas, and experiences with the world through written content, known as blog posts. These posts can include text, images, and videos and are organized by date and often categorized by topic. This simple and clean AlphaBlog will have a minimalist design with easy navigation, allowing users to easily find and read blog posts. The website will also have features such as the ability to leave comments on posts and a search bar to help users find specific content. Overall, AlphaBlog is an accessible and user-friendly platform for individuals to share their thoughts and ideas with a wider audience.
+
 ## Install
 
 ### Clone the repository
